@@ -24,7 +24,7 @@ If you are saving your progress on freeCodeCamp.org, after getting all the tests
 
 You should rename the weight column to atomic_mass
 
-- [ ] You should rename the melting_point column to melting_point_celsius and the boiling_point column to boiling_point_celsius
+- [ x ] You should rename the melting_point column to melting_point_celsius and the boiling_point column to boiling_point_celsius
 
 - [ ] Your melting_point_celsius and boiling_point_celsius columns should not accept null values
 
