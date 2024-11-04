@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c0ab42c4-a16d-492b-9afe-752cb8649dd6)# Periodic Table Database
+# Periodic Table Database
 ## Instructions
 You are started with a periodic_table database that has information about some chemical elements. You can connect to it by entering psql --username=freecodecamp --dbname=periodic_table in the terminal. You may want to get a little familiar with the existing tables, columns, and rows. Read the instructions below and complete user stories to finish the project. Certain tests may not pass until other user stories are complete. Good luck!
 
